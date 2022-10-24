@@ -55,7 +55,7 @@ multiple list it was something that I ran out of time for. However, in the time 
 the intial list that I have made.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-n what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 I think that the intial list screen is where it shows my knowledge, skills, and experience. This area is somewhere that I had to dig deep into learning and figure out 
